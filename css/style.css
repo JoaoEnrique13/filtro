@@ -8,6 +8,10 @@ body{
     overflow-x: hidden;
 }
 
+main{
+    min-height: 100vh;
+}
+
 .container{
     padding: 20px 100px;
     display: flex;
